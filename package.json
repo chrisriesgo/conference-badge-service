@@ -12,7 +12,11 @@
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.3",
     "express": "~4.15.2",
-    "morgan": "~1.8.1"
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.4",
+    "morgan": "~1.8.1",
+    "mqtt": "^2.9.1",
+    "path": "^0.12.7"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
